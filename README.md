@@ -1,1 +1,1 @@
-Most of these codes are Java beginner codes I wrote while completing a Coursea course (Programming with a purpose). The only C++ code being the "Chess Game" and the rest are Java. Thank you for checking them out.
+Some of these codes are Java beginner codes I wrote while completing a Coursea course (Programming with a purpose). The only C++ codes are mostly for fun easy projects and tests. Thank you for checkling them out.
